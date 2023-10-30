@@ -1,11 +1,12 @@
 {
-		"name": "NewMan",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+	"Pools"
+		"name": "ZergPool",
+        	"url": "stratumtcp://verushash.minezergpool.com:3300",
 		"timeout": 150
 	}
 	],
 	"user": "RNhjq52v4gLZuyaVsj9UUt2BoDkszwUpQm.PHONE_FARM1",
-	"pass": "c=PGN ",
+	"pass": "c=verus",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
